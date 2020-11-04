@@ -1,0 +1,352 @@
+
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .head{
+        width: 100%;
+        height: 50px;
+        background-color:#100F0F;
+    }
+    #tou{
+        width: 63.8%;
+        margin: auto;
+        height: 30px;
+    }
+    .qaz{
+        width: 25px;
+        height: 25px;
+        margin-left: 40px;
+    }
+    ul li{
+        float: left;
+        text-align: center;
+        margin:28px;
+        list-style: none;
+        margin-top: 0px;
+        font-size: 14px;
+        line-height: 50px;
+        margin-bottom: 0px;
+    }
+    ul .qq a{
+        text-decoration-line: none;
+        color: white;
+    }
+    #zhuang a{
+        text-decoration-line: none;
+        color: black;
+        font-size: 20px;
+    }
+    ul li a:hover{
+        color: #b8b6b6;
+    }
+    #pg1{
+        margin-left: 0px;
+    }
+    #pg2{
+        margin-right: 0px;
+    }
+
+    #da{
+        width: 100%;
+        height: 488px;
+        background-image: url(img/hero-banner-baker-homepage.image.large_2x.jpg);
+        background-size: 100% 488px;
+        position: relative;
+    }
+    #h{
+        position: absolute;
+        top: 80px;
+        left: 34.4%;
+    }
+    #h h1{
+        font-size: 40px;
+        font-weight:bolder;
+    }
+    #row{
+        width: 40%;
+        height: 44.8px;
+        position: absolute;
+        left: 30%;
+        top: 150px;
+    }
+    .sou{
+       width: 100%;
+       height: 100%;
+        border: none;
+    }
+    .oo{
+        width: 40px;
+        height: 44px;
+      position: absolute;
+      top: 0px;
+      background-color: white;
+      }
+      .ni{
+        float:left;
+        width: 70px;
+        margin-right: 70px;
+        margin-top: 50px;
+      }
+      .ni1{
+        float:left;
+        width: 70px;
+        margin-top: 50px;
+      }
+      .ni p{
+         text-align: center;
+      }
+      .ni1 p{
+          text-align: center;
+      }
+      .xiaotu{
+          width: 68px;
+          height: 68px;
+      }
+      #zhuang{
+          width: 52.01%;
+          margin: auto;
+      }
+      #zhuang3{
+          width: 65%;
+          height: 201.6px;
+          margin-top: 160px;
+          text-align: center;
+          position: relative;
+          left: 18.23%;
+      }
+      #zhuang3 .tu{
+          width:328px;
+          float: left;
+         margin-top:56px;
+      }
+      #zhuang3 img{
+          width: 40px;
+          height: 40px;
+      }
+      #zhuang3 a{
+          color: #0097E5;
+          text-decoration-line: none;
+      }
+      #zhuang3 p{
+          font-size: 18px;
+      }
+      #zhuang2{
+          width: 99.8%;
+          height: 245.6px;
+          position: relative;
+          border: #DEDEDE 0.5px solid;
+      }
+      .left{
+          width: 408.5px;
+          position: absolute;
+          left: 22.91%;
+      }
+      .left h1{
+          position: absolute;
+          top: 40px;
+          line-height: 50px;
+      }
+      .left p{
+          line-height: 30px;
+          font-size: 25px;
+          position: absolute;
+          top: 100px;
+      }
+      .right{
+          position: absolute;
+          right: 22.91%;
+          top: 15px;
+      }
+      #zhuang2 img{
+          width: 400px;
+          height: 209px;
+      }
+      #zhuang21{
+          width: 99.8%;
+          height: 245.6px;
+          position: relative;
+          border: #DEDEDE 0.5px solid;
+      }
+      #zhuang21 img{
+          width: 400px;
+          height: 209px;
+      }
+      .left1{
+          position: absolute;
+          left: 22.91%;
+          top: 25px;
+      }
+      .right1{
+          width: 408.5px;
+          position: absolute;
+          right: 22.91%;
+      }
+      .right1 h1{
+          position: absolute;
+          top: 40px;
+          line-height: 50px;
+      }
+      .right1 p{
+          line-height: 30px;
+          font-size: 25px;
+          position: absolute;
+          top: 100px;
+      }
+      #datu1{
+          width: 100%;
+          height: 344px;
+          background-image: url(img/psp-hero-banner-getsupport.image.large_2x.jpg);
+          background-size: 100% 344px;
+          margin-top: 11px;
+          position: relative;
+      }
+      .zier{
+          width: 20.8%;
+          height: 34.4%;
+          color: white;
+          position: absolute;
+          left: 18%;
+          top: 42%;
+      }
+      .zier p{
+          margin-top: 20px;
+          font-size: 20px;
+      }
+      #zhuang22{
+          width: 99.8%;
+          height: 300px;
+          position: relative;
+          border: #DEDEDE 0.5px solid;
+      }
+      #zhuang22 img{
+          width: 400px;
+          height: 209px;
+      }
+      .left2{
+          position: absolute;
+          left: 22.91%;
+          top: 40px;
+      }
+      .right2{
+          width: 408.5px;
+          position: absolute;
+          right: 22.91%;
+      }
+      .right2 h1{
+          position: absolute;
+          top: 40px;
+          line-height: 50px;
+      }
+      .right2 p{
+          line-height: 30px;
+          font-size: 25px;
+          position: absolute;
+          top: 150px;
+      }
+      #zizi{
+          width: 99.8%;
+          height: 245.6px;
+          position: relative;
+          border: #DEDEDE 0.5px solid;
+      }
+      #zizi h2{
+          text-align: center;
+          margin-top: 20px;
+          margin-bottom: 20px;
+      }
+      .p1{
+          margin: auto;
+          text-align: center;
+          width: 52%;
+          font-size: 18px;
+      }
+      .p2{
+        margin: auto;
+        font-size: 18px;
+        text-align: center;
+          width: 52%;
+          margin-top: 20px;
+      }
+      #zhuang111{
+          width: 99.8%;
+          height: 209px;
+          border: #DEDEDE 0.5px solid;
+          position: relative;
+      }
+      .left3{
+          position: absolute;
+          left: 22.91%;
+          top: 40px;
+      }
+      .right3{
+          width: 408.5px;
+          position: absolute;
+          right: 400px;
+          margin-top: 50px;
+      }
+      #wu{
+        width: 99.8%;
+          height: 300px;
+          border: #DEDEDE 0.5px solid;
+          position: relative;  
+      }
+      #wu a{
+          width: 44.3%;
+          font-size: 18px;
+          color: #0070C9;
+          line-height: 35px;
+          text-decoration: none;
+      }
+      .pl{
+          width: 44.3%;
+          position: absolute;
+          top: 40px;
+          left: 23%;
+      }
+      .foot{
+          width: 99.99%;
+          height: 450px;
+          background-color: #F2F2F2;
+          position: relative;
+      }
+      .foot p{
+          text-align: center;
+          padding: 20px;
+      }
+      .tutu1{
+          width: 32px;
+          height: 32px;
+          margin-left: 700px;
+      }
+      .tutu2{
+          width: 32px;
+          height: 32px;
+          margin-left: 20px;
+          margin-right: 600px;
+      }
+      .tupiana{
+          width: 60%;
+          height: 291.2px;
+          position: absolute;
+          top:150px;
+          left: 0;
+          right: 0;
+          margin: auto;
+      }
+     .tupiana ul li{
+         display: inline;
+         clear: both;
+         font-size: 13px;
+         font-family: inherit;
+         font-weight: inherit;
+         line-height: 30px;
+         text-align: inherit;
+         color: #555555;
+     }
+     .sige{
+         float: left;
+         margin-right: 30px;
+     }
+    }

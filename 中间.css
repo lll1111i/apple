@@ -1,0 +1,190 @@
+@media screen and (min-width:760px) and (max-width:1079.17px){
+*{
+    margin: 0px;
+    padding: 0px;
+ }
+.head #tou{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: -10px;
+    margin-left: -20px;
+ }
+ ul li{
+     margin-right: 25px;
+ }
+
+ .qaz{
+     margin-left: -10px;
+ }
+#h h1{
+    margin: -60px;
+}
+#row{
+    width: 600px; 
+    margin: -60px;
+    margin-left: -100px;
+}
+#zhuang{
+    width: 80%;
+}
+#zhuang .ni{
+    margin-left: 135px;
+}
+#zhuang  #a1{
+    margin-left: 0px;
+}
+#zhuang .ni1{
+    margin-left: 150px;
+    margin-right: 0px;
+}
+#zhuang #a2{
+    margin-left: 150px;
+    margin-right: 0px;
+}
+#zhuang3 {
+    margin-top: 400px;
+}
+.container{
+    position: relative;
+}
+#zhuang3 .tu{
+    padding: 10px;
+    margin-top: -60px;
+    margin-bottom: 150px;
+    margin-left: 70px;
+    border-top: 1px rgb(233, 230, 230) solid ;
+}
+#zhuang2{
+    margin-top: 260px;
+}
+#zhuang2 .right{
+    position: absolute;
+    top: 45px;
+    left: 200px;  
+}
+#zhuang2 .left{
+    position: absolute;
+    top: 250px;
+    left: 100px;
+}
+#zhuang2  h1{
+    margin-left:170px;
+}
+#zhuang2 p{
+    text-align: center;
+    width: 600px;
+    font-size: 19px;
+    font-weight: 300;
+    color: rgb(80, 77, 77);
+}
+#zhuang21{
+    margin-top: 200px;
+    border: none;
+}
+#zhuang21 .left1{
+    position: absolute;
+    top: 45px;
+    left: 200px;
+}
+#zhuang21 p{
+    text-align: center;
+    width: 600px;
+    font-size: 19px;
+    font-weight: 300;
+    color: rgb(80, 77, 77);
+    border: none;
+}
+#zhuang21 .right1{
+    position: absolute;
+    top: 250px;
+    left: 100px;
+}
+.right1 h1{
+    margin-left: 130px;
+}
+#datu1{
+    margin-top: 250px;
+    background-size:100% 320px;
+    background-repeat: no-repeat;
+}
+#datu1 .zier{
+    display: none;
+}
+.foot{
+    position: relative;
+    margin-top: 200px;
+    height: 580px;
+}
+.foot .tutu1{
+    position: absolute;
+    left: -350px;
+}
+.foot .tutu2{
+    margin-right: 0px;
+    position: absolute;
+    left: 400px;
+}
+#zhuang22{
+    border: none;
+}
+#zhuang22 .left2{
+    position: absolute;
+    top: 50px;
+    left: 220px;
+}
+#zhuang22 .right2{
+    position: absolute;
+    top: 250px;
+    left: 230px;
+}
+.right2 p{
+    font-size: 19px;
+    color: rgb(80, 77, 77);
+}
+#zizi{
+    margin-top: 200px;
+    border-bottom: none;
+}
+#zizi .p1{
+    width: 100%;
+}
+#zhuang111{
+   margin-top: 30px;
+   border-bottom: none;
+}
+#zhuang111 img{
+    position: absolute;
+    left: 50px;
+}
+#zhuang111 .right3{
+    position: absolute;
+    top: 200px;
+    left: 220px;
+}
+#wu{
+    margin-top: 100px;
+    border: none;
+}
+.pl{
+    position: absolute;
+    left: 50px;
+    width: 90%;
+}
+.pl h2{
+    font-size: 20px;
+    width: 100%;
+}
+.pl ul{
+    width: 100%;
+}
+#wu a{
+   line-height: 40px;
+}
+.tupiana{
+    width: 100%;
+}
+.sige{
+    margin-right: 0px;
+}
+}
